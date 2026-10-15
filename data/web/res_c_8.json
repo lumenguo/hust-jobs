@@ -1,0 +1,167 @@
+[
+ {
+  "key": "https://job.hust.edu.cn/zjob/2410208.htm",
+  "company": "烽火通信 华科",
+  "type": "date",
+  "deadline": "2026-10-28",
+  "deadline_text": "网申时间：2026-08-29 ~ 2026-10-28",
+  "note": "",
+  "source": "https://campus.niuqizp.com/job-vsl5aNM5C.html",
+  "source_name": "牛企直聘（来源：烽火通信招聘公众号）",
+  "confidence": "high"
+ },
+ {
+  "key": "https://job.hust.edu.cn/extxjh/531788327617880.do",
+  "company": "深圳市华星光电技术有限公司",
+  "type": "date",
+  "deadline": "2026-12-31",
+  "deadline_text": "简历投递起止时间：即日起至12月31日",
+  "note": "公告未写年份，按发布年份2026计",
+  "source": "https://job.xjtu.edu.cn/f/recruitmentFair/show?recruitmentFairId=c85c9117bd9440ed8b9980281cdae994",
+  "source_name": "西安交通大学就业信息网",
+  "confidence": "high"
+ },
+ {
+  "key": "https://job.hust.edu.cn/extxjh/701788149850007.do",
+  "company": "上海集成电路研发中心27 -华中科技大学",
+  "type": "date",
+  "deadline": "2026-11-30",
+  "deadline_text": "招聘截止日期 2026-11-30",
+  "note": "2027年度校园招聘公告载明",
+  "source": "https://campus.niuqizp.com/job-vmy5atnNN.html",
+  "source_name": "牛企直聘（来源：山东大学）",
+  "confidence": "high"
+ },
+ {
+  "key": "https://job.hust.edu.cn/extxjh/61788489081680.do",
+  "company": "国家能源集团长源电力股份有限公司",
+  "type": "date",
+  "deadline": "2026-10-07",
+  "deadline_text": "统招网上报名：9月2日—10月7日",
+  "note": "采用国家能源集团统一网申截止时间，长源电力为集团所属子分公司",
+  "source": "https://jyb.gxmzu.edu.cn/detail/online?id=3594270&menu_id=3626",
+  "source_name": "广西民族大学就业信息网（来源：国家能源集团）",
+  "confidence": "mid"
+ },
+ {
+  "key": "https://job.hust.edu.cn/extxjh/691788225765257.do",
+  "company": "浙江锐鹰传感技术有限公司",
+  "type": "date",
+  "deadline": "2026-11-04",
+  "deadline_text": "网申时间：2026/09/04 ~ 2026/11/04",
+  "note": "",
+  "source": "https://campus.niuqizp.com/job-v8l5CZ5Ca.html",
+  "source_name": "牛企直聘（来源：锐鹰传感公众号）",
+  "confidence": "high"
+ },
+ {
+  "key": "https://job.hust.edu.cn/zpinfo1/2450577.htm",
+  "company": "思远半导体",
+  "type": "date",
+  "deadline": "2026-11-29",
+  "deadline_text": "投递截止时间2026年11月29日08:00（北京时间）",
+  "note": "高校就业网转载的官方公告未载明截止日，以校招平台信息为准",
+  "source": "https://www.wondercv.com/xiaozhao/siyuan-semiconductor-2027-campus-shenzhen-zhuhai-17175-b16612",
+  "source_name": "超级简历WonderCV",
+  "confidence": "mid"
+ },
+ {
+  "key": "https://job.hust.edu.cn/zpinfo1/2450505.htm",
+  "company": "哈电集团哈尔滨电机厂有限责任公司",
+  "type": "date",
+  "deadline": "2027-06-30",
+  "deadline_text": "报名截止时间为北京时间2027年6月30日24点",
+  "note": "",
+  "source": "https://www.hec-china.com/cpyc_content/6426.html",
+  "source_name": "哈尔滨电机厂官方网站",
+  "confidence": "high"
+ },
+ {
+  "key": "https://job.hust.edu.cn/zpinfo1/2449906.htm",
+  "company": "国家开发银行山西省分行",
+  "type": "date",
+  "deadline": "2026-10-07",
+  "deadline_text": "报名时间：2026年9月12日12点至10月7日24点（北京时间）",
+  "note": "",
+  "source": "https://sx.huatu.com/jinrong/kaoshi/gg/2026/0929/1281074.html",
+  "source_name": "山西华图（转载国开行山西分行公告）",
+  "confidence": "high"
+ },
+ {
+  "key": "https://job.hust.edu.cn/zpinfo1/2449375.htm",
+  "company": "马栏山音视频实验室",
+  "type": "date",
+  "deadline": "2026-11-28",
+  "deadline_text": "投递截止时间2026年11月28日",
+  "note": "官方简章未载明截止日，以校招平台信息为准",
+  "source": "https://hicv.cn/xiaozhao/mlslab-changsha-2027-campus-recruitment-17028-68fc1c",
+  "source_name": "HI简历",
+  "confidence": "mid"
+ },
+ {
+  "key": "https://job.hust.edu.cn/zpinfo1/2407465.htm",
+  "company": "网易游戏雷火 开启",
+  "type": "date",
+  "deadline": "2026-10-15",
+  "deadline_text": "10月15日网申截止",
+  "note": "官网同时标注「岗位招满即止」，有明确日期按date归类",
+  "source": "https://leihuo.163.com/campus/#/full",
+  "source_name": "网易雷火官方网站",
+  "confidence": "high"
+ },
+ {
+  "key": "https://job.hust.edu.cn/zpinfo1/2446183.htm",
+  "company": "中国民生银行股份有限公司宁波分行",
+  "type": "date",
+  "deadline": "2026-10-25",
+  "deadline_text": "报名截止时间：2026-10-25",
+  "note": "",
+  "source": "https://m.yinhangzhaopin.com/msyhzp/2026-09-04/224977.htm",
+  "source_name": "银行招聘网（文章来源：民生银行招聘官网）",
+  "confidence": "high"
+ },
+ {
+  "key": "https://job.hust.edu.cn/zpinfo1/2440966.htm",
+  "company": "华夏久盈 瑞启新章 · 青筑资管",
+  "type": "date",
+  "deadline": "2026-10-30",
+  "deadline_text": "截止时间：2026-10-30",
+  "note": "官方简章未载明截止日，以校招平台信息为准",
+  "source": "https://www.jrzp.com/xiaozhaoView/5738877.shtml",
+  "source_name": "今日招聘网",
+  "confidence": "mid"
+ },
+ {
+  "key": "https://job.hust.edu.cn/zpinfo1/2445077.htm",
+  "company": "上海核工院 核聚梦想 和创未来",
+  "type": "date",
+  "deadline": "2026-11-17",
+  "deadline_text": "网申时间：2026-09-19 ~ 2026-11-17",
+  "note": "",
+  "source": "https://campus.niuqizp.com/job-vsy5nnzat.html",
+  "source_name": "牛企直聘（来源：国家电投上海核工院公众号）",
+  "confidence": "high"
+ },
+ {
+  "key": "https://job.hust.edu.cn/zpinfo1/2437036.htm",
+  "company": "光宝中国研发中心",
+  "type": "date",
+  "deadline": "2026-10-25",
+  "deadline_text": "截止 2026-10-25",
+  "note": "官方简章未载明截止日，以校招平台信息为准",
+  "source": "https://upjianli.com/xiaozhao/cmt9xnnv6002rm988cxrqof5z.html",
+  "source_name": "UP简历",
+  "confidence": "mid"
+ },
+ {
+  "key": "https://job.hust.edu.cn/zpinfo1/2433783.htm",
+  "company": "华融金租",
+  "type": "date",
+  "deadline": "2026-10-12",
+  "deadline_text": "简历接收截止时间2026年10月12日",
+  "note": "",
+  "source": "https://scdc.jnu.edu.cn/campus/view/id/1037485",
+  "source_name": "暨南大学就业信息服务平台",
+  "confidence": "high"
+ }
+]

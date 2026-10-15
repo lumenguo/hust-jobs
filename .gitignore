@@ -1,0 +1,9 @@
+# 中间缓存：源站 HTML 原始存档（约 133MB，可由 crawl.py / crawl_notime.py 重新生成）
+raw/
+
+# 微信文章本地化图片（约 49MB，index.html 引用；可由 reparse.py 重新生成）
+images/
+
+# Python 缓存
+__pycache__/
+*.pyc

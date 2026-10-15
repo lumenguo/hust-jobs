@@ -1,0 +1,35 @@
+{
+ "revised_at": "2026-10-15 19:50:05",
+ "source_account": "华中科技大学就业指导与服务中心",
+ "count": 2,
+ "revisions": [
+  {
+   "url": "https://mp.weixin.qq.com/s/3Goa97jo0LzljoudVs18VA?scene=1&click_id=393988346",
+   "item_title": "华为数字能源2027届招聘",
+   "action": "confirm",
+   "field": "宣讲时间",
+   "old": "2026-10-13 19:00",
+   "new": "2026-10-13 19:00",
+   "source_title": "【宣讲会】10月13日19:00 | 华为数字能源2027届应届生招聘线下宣讲会来袭!",
+   "source_url": "https://mp.weixin.qq.com/s/3Goa97jo0LzljoudVs18VA?scene=1&amp;click_id=393988346",
+   "source_publish": "2026-10-09 22:34",
+   "extract_from": "正文·宣讲会信息",
+   "match_score": 0.87,
+   "revised_at": "2026-10-15 19:50:05"
+  },
+  {
+   "url": "https://mp.weixin.qq.com/s/fLD2_EDB0Myu0ZxLtGQ-Gg",
+   "item_title": "欧莱雅(中国)2027届秋季管理培训生招聘",
+   "action": "confirm",
+   "field": "宣讲时间",
+   "old": "2026-09-07 18:30",
+   "new": "2026-09-07 18:30",
+   "source_title": "【宣讲会】9月7日19:30|欧莱雅(中国)2027届秋季管理培训生招聘正式启动",
+   "source_url": "https://mp.weixin.qq.com/s/fLD2_EDB0Myu0ZxLtGQ-Gg",
+   "source_publish": "2026-09-04 18:22",
+   "extract_from": "正文·宣讲会信息",
+   "match_score": 0.95,
+   "revised_at": "2026-10-15 19:50:05"
+  }
+ ]
+}
